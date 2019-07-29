@@ -7,7 +7,11 @@ CCapture.js is a library to help capturing animations created with HTML5 `canvas
 - [Gallery](#gallery)
 - [Credits](#credits)
 - [License](#license)
-
+         
+	 
+	 
+	 
+	 
 An example is probably worth a lot of words: [CCapture.js with Game of Life 3D](http://www.clicktorelease.com/code/conway3d_ccapture/).
 
 ![Sample](https://raw.githubusercontent.com/spite/ccapture.js/master/assets/sample.gif)
